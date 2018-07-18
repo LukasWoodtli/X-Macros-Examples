@@ -16,4 +16,4 @@ endif()
 enable_testing()
 
 add_subdirectory("1_colors")
-
+add_subdirectory("2_error_codes")
